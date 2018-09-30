@@ -87,7 +87,7 @@ GitHub：https://github.com/Amery2010
 
 * 流利说与美丽中国的合作活动 —— [你学英语我捐课](https://hybrid.liulishuo.com/lls-csr/)。该活动与[美丽中国公益组织](http://www.tfchina.org/) 合作，在全国 50余所高校同步展开，参加活动的英语流利说的用户每学习五分钟，即可为美丽中国支教项目学校的学生捐赠一节人工智能英语课程。活动期间，报名参加活动用户多达 48087人，共计捐赠课程 157232节，相当于为约 2000名乡村学生捐赠了 1年的人工智能英语课程。
 
-* 英语流利说 2017[年度总结 html5](https://hybrid.liulishuo.com/annual-summary-2017/)，该活动类似于网易云音乐的年度总结 html5。幽默的画风以及轻量的交互体验，引得了流利说用户的一致好评。
+* 英语流利说 [2017年度总结 html5](https://hybrid.liulishuo.com/annual-summary-2017/)，该活动类似于网易云音乐的年度总结 html5。幽默的画风以及轻量的交互体验，引得了流利说用户的一致好评。
 
 * 各类节日主题的运营活动，[愚人节](https://hybrid.liulishuo.com/top-stories/)、[儿童节](https://hybrid.liulishuo.com/life-tester/)、[七夕](https://hybrid.liulishuo.com/campaigns/tanabata-festival/index.html)以及部分自制的英语购物节活动
 
@@ -150,7 +150,7 @@ Magi.js 是一款轻量级的适用于微信小程序的 JavaScript 动画引擎
 
 * HEAD 官方中文
 
-我维护了目前热门的 Github 项目 [HEAD](https://github.com/joshbuchea/HEAD) ，目前超过 24203个 star 的项目的官方中文支持。
+我维护了目前热门的 Github 项目 [HEAD](https://github.com/joshbuchea/HEAD) 的官方中文支持。
 
 GitHub 项目地址：https://github.com/Amery2010/HEAD
 
@@ -177,16 +177,20 @@ Gitbook 项目地址：https://amery2010.gitbooks.io/nodejs-api-doc-cn/
 
 JavaScript 基础扎实，熟练使用 jQuery、zepto，可以使用原生 JavaScript 开发项目，喜欢使用最新的语言特性（es6以及之后的版本）。
 
+使用过 elementui、iview、bootstrap、ratchet 等前端 UI 框架
+
 擅长项目工程化，先后使用过 gulp、rollup 从零开始搭建基础的项目开发环境。
 
 擅长使用 Vue 2.0 构建开发环境，习惯结合 vuex、vue-router 进行项目的开发。
 
 擅长微信小程序项目的开发，对小程序的运行机制有深一步的探究
 
-使用 React 维护过公司项目
+使用 React 维护过部分企业核心项目
 
 使用 Node.js 开发过管理后台的后端 api，以及爬虫项目
 
+使用 TypeScript 开发个人项目
+
 使用 docker 在服务器上构建独立项目，比如搭建过 gitlab、mysql 服务、网站
 
-使用 TypeScript 开发个人项目
+懂一点设计与交互，尊崇用户体验至上。
