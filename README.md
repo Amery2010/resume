@@ -7,6 +7,7 @@
 * 年龄：30 (1990-08)
 * 学历：本科
 * 工作经验：5年以上
+* 联系电话：15221926020
 * 邮箱：amery&#64;xiangfa.org
 * 个人主页：https://xiangfa.org
 * GitHub：https://github.com/Amery2010
